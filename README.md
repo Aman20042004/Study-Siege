@@ -46,14 +46,19 @@ Upcoming features include:
 
 ## 📷 Screenshots
 
-<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/da4c32a6-89e8-4ca8-bad2-60fb36fc1dd5" />
-<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/992d6578-d4d4-4fac-a264-25bcea017b0f" />
-<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/238ea4ab-c926-4290-8e30-80b9e7fe41bf" />
-<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/90d9b72a-1af1-4475-ae61-1ffb41d49c8e" />
-<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/4b711a08-ef49-4bbb-a81b-ddd9f7682123" />
-<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/e544652f-6be5-490d-a33f-23e4ca1cda03" />
-<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/d6e05fa3-7003-460f-bba1-5a0c3e1fbe7c" />
-<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/9e863318-d61b-440b-a004-bc643927a85c" />
+<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/626a36d6-1728-4ee2-9d8e-fc049ce613c5" />
+<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/97105329-c7a8-4dac-aaf1-a4e6ede724d2" />
+<img width="1080" height="2408" alt="study2" src="https://github.com/user-attachments/assets/c43ba472-84cc-42b1-9f16-7285f75552ce" />
+<img width="1080" height="2408" alt="study3" src="https://github.com/user-attachments/assets/a9ff6257-9131-46ca-9a35-d9396d631496" />
+<img width="1080" height="2408" alt="study4" src="https://github.com/user-attachments/assets/743127c1-9b10-415b-ad47-657026f8cdd7" />
+<img width="1080" height="2408" alt="study4" src="https://github.com/user-attachments/assets/3e8d0456-a327-434b-a3fb-a7da12948566" />
+<img width="1080" height="2408" alt="study4" src="https://github.com/user-attachments/assets/9c6cbae2-811a-45d2-a2d7-e0ddb9360913" />
+<img width="574" height="1280" alt="study10" src="https://github.com/user-attachments/assets/30245751-fddd-4b77-8444-2203f14de07c" />
+<img width="574" height="1280" alt="study13" src="https://github.com/user-attachments/assets/7f026cec-d3ec-4b56-bd68-d625998fd3c6" />
+
+
+
+
 
 
 ## 📄 License
