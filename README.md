@@ -47,8 +47,7 @@ Upcoming features include:
 ## 📷 Screenshots
 
 <img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/626a36d6-1728-4ee2-9d8e-fc049ce613c5" />
-<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/97105329-c7a8-4dac-aaf1-a4e6ede724d2" />
-<img width="1080" height="2408" alt="study2" src="https://github.com/user-attachments/assets/c43ba472-84cc-42b1-9f16-7285f75552ce" />
+
 <img width="1080" height="2408" alt="study3" src="https://github.com/user-attachments/assets/a9ff6257-9131-46ca-9a35-d9396d631496" />
 <img width="1080" height="2408" alt="study4" src="https://github.com/user-attachments/assets/743127c1-9b10-415b-ad47-657026f8cdd7" />
 <img width="1080" height="2408" alt="study4" src="https://github.com/user-attachments/assets/3e8d0456-a327-434b-a3fb-a7da12948566" />
