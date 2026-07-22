@@ -50,10 +50,8 @@ Upcoming features include:
 
 <img width="1080" height="2408" alt="study3" src="https://github.com/user-attachments/assets/a9ff6257-9131-46ca-9a35-d9396d631496" />
 <img width="1080" height="2408" alt="study4" src="https://github.com/user-attachments/assets/743127c1-9b10-415b-ad47-657026f8cdd7" />
-<img width="1080" height="2408" alt="study4" src="https://github.com/user-attachments/assets/3e8d0456-a327-434b-a3fb-a7da12948566" />
-<img width="1080" height="2408" alt="study4" src="https://github.com/user-attachments/assets/9c6cbae2-811a-45d2-a2d7-e0ddb9360913" />
-<img width="574" height="1280" alt="study10" src="https://github.com/user-attachments/assets/30245751-fddd-4b77-8444-2203f14de07c" />
-<img width="574" height="1280" alt="study13" src="https://github.com/user-attachments/assets/7f026cec-d3ec-4b56-bd68-d625998fd3c6" />
+<img width="574" height="1280" alt="study9" src="https://github.com/user-attachments/assets/4fe9df80-9440-49df-ba7a-75a6f7cc31ac" />
+<img width="574" height="1280" alt="study10" src="https://github.com/user-attachments/assets/5bbef246-8688-45d8-b98d-906529001630" />
 
 
 
